@@ -98,6 +98,14 @@ list-style: none;
     margin-left: 10px;
     
 }
+#icccoop{
+    width:115px;
+    height:68px; 
+     border: solid 1px #fff;
+     background-color: #fff;
+    border-radius: 5px;
+    
+}
 #pasargad{
     width:115px;
     height:68px; 
@@ -194,3 +202,4 @@ footer a {
     }
 }
     
+
